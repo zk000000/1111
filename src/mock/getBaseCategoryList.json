@@ -1,0 +1,52 @@
+[
+    {
+        "categoryName": "电子书刊",
+        "categoryId": 1,
+        "categoryChild": {
+            "categoryName": "电子11",
+            "categoryId": 1,
+            "categoryChild": [
+                {
+                    "categoryName": "电子书",
+                    "categoryId": 1
+                },  
+                {
+                    "categoryName": "网络原创",
+                    "categoryId": 2
+                },
+                {
+                    "categoryName": "数字杂志",
+                    "categoryId": 3
+                },
+                {
+                    "categoryName": "多媒体图书",
+                    "categoryId": 4
+                }
+            ]
+        }
+    },
+    {
+        "categoryName": "电子",
+        "categoryId": 2,
+        "categoryChild": {
+            "categoryChild": [
+                {
+                    "categoryName": "电子书",
+                    "categoryId": 1
+                },
+                {
+                    "categoryName": "网络原创",
+                    "categoryId": 2
+                },
+                {
+                    "categoryName": "数字杂志",
+                    "categoryId": 3
+                },
+                {
+                    "categoryName": "多媒体图书",
+                    "categoryId": 4
+                }
+            ]
+        }
+    }
+]
